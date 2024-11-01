@@ -41,6 +41,13 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
+<h2 align="center">📫 Contact 📫</h2>
+<div align="center">
+  <a href="mailto:changeme133@naver.com">
+    <img
+      src="https://img.shields.io/badge/changeme133@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+  </a>
+</div>
 
 
 <!--
