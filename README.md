@@ -105,5 +105,3 @@ const currentFocus = {
 
 
 
-
-[출처: 언론출판독서TV (https://booknews.ai.kr/news/424)]
