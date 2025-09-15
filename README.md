@@ -102,3 +102,8 @@ const currentFocus = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" />
 </div>
+
+
+
+
+[출처: 언론출판독서TV (https://booknews.ai.kr/news/424)]
