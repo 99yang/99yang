@@ -26,17 +26,32 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/VitePress-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=1a1a1a" />
 </div>
 
 ### **Development Tools**
 <div align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Beekeeper_Studio-FFC107?style=for-the-badge&logo=database&logoColor=black&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Monorepo-FF6B6B?style=for-the-badge&logo=npm&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/VitePress-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a1a" />
 </div>
+
+### **API**
+<div align="center">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/$fetch-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white&labelColor=1a1a1a" />
+</div>
+
+<!-- ### **Backend**
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a" />
+</div> -->
 
 ### **Cloud & Infrastructure**
 <div align="center">
@@ -44,6 +59,8 @@
   <img src="https://img.shields.io/badge/GCS-4285F4?style=for-the-badge&logo=google-cloud-storage&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white&labelColor=1a1a1a" />
 </div>
 
 ---
@@ -52,14 +69,14 @@
 
 <div align="center">
 
-| 프로젝트 | 기술 스택 | 상태 | 링크 |
-|---------|----------|------|------|
-| **티그로 회사 사이트** | VitePress, Vue.js, Three.js | ✅ 완료 | [tigro.co.kr](https://www.tigro.co.kr/index/) |
-| **진삼가 브랜드 사이트** | Vue 3, Nuxt 3, Tailwind CSS | ✅ 완료 | [jinsamga.tigro.co.kr](https://jinsamga.tigro.co.kr/) |
-| **언론출판독서TV** | Vue 3, Nuxt 3, Tailwind, GCP, GCS | ✅ 완료 | [booknews.ai.kr](https://booknews.ai.kr/) |
-| **에이콘 회사 사이트** | Vue 3, Nuxt 3, Tailwind, Turborepo | ✅ 완료 | [acon.ai.kr](https://acon.ai.kr/) |
-| **에이콘 관리자 페이지** | Vue 3, Nuxt 3, Tailwind, Turborepo | 🚧 진행중 | Private |
-| **쇼핑몰 프로젝트** | Vue 3, Nuxt 3, Tailwind, Turborepo, LowDB | ⏸️ 중단 | Private |
+| 프로젝트 | 기술 스택 | 기간 | 상태 | 링크 |
+|---------|----------|------|------|------|
+| **티그로 회사 사이트** | VitePress, Vue.js, Three.js | 1개월 | ✅ 완료 | [tigro.co.kr](https://www.tigro.co.kr/index/) |
+| **진삼가 브랜드 사이트** | Vue 3, Nuxt 3, Tailwind CSS | 1개월 | ✅ 완료 | [jinsamga.tigro.co.kr](https://jinsamga.tigro.co.kr/) |
+| **언론출판독서TV** | Vue 3, Nuxt 3, Tailwind, GCP, GCS | 1개월 | ✅ 완료 | [booknews.ai.kr](https://booknews.ai.kr/) |
+| **에이콘 회사 사이트** | Vue 3, Nuxt 3, Tailwind, Turborepo | 3주 | ✅ 완료 | [acon.ai.kr](https://acon.ai.kr/) |
+| **에이콘 관리자 페이지** | Vue 3, Nuxt 3, Tailwind, Turborepo | 1주 | 🚧 진행중 | Private |
+| **쇼핑몰 프로젝트** | Vue 3, Nuxt 3, Tailwind, Turborepo, LowDB | 6개월 | ⏸️ 중단 | Private |
 
 </div>
 
@@ -102,6 +119,3 @@ const currentFocus = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" />
 </div>
-
-
-
