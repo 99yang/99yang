@@ -97,7 +97,7 @@
   <tr>
     <td width="50%">
       <img width="100%" alt="tigro" src="https://github.com/user-attachments/assets/0242edad-bf6c-419f-b11f-dccde9cf0a2f" />
-      <p align="center"><strong>티그로 회사 페이지</strong></p>
+      <p align="center"><strong>티그로 회사 메인페이지</strong></p>
     </td>
     <td width="50%">
       <img width="100%" alt="tigro-about" src="https://github.com/user-attachments/assets/835253d4-16a8-4940-954d-74eaccfe8ea8" />
@@ -107,7 +107,7 @@
   <tr>
     <td width="50%">
       <img width="100%" alt="jinsamga" src="https://github.com/user-attachments/assets/f35a26df-bcaa-43be-952f-1f917855ec27" />
-      <p align="center"><strong>진삼가 브랜드 페이지</strong></p>
+      <p align="center"><strong>진삼가 브랜드 메인페이지</strong></p>
     </td>
     <td width="50%">
       <img width="100%" alt="jinsam-brand" src="https://github.com/user-attachments/assets/16112889-5ad3-43a8-a779-5e184ff1f022" />
@@ -120,8 +120,18 @@
       <p align="center"><strong>언론출판독서TV 메인페이지</strong></p>
     </td>
     <td width="50%">
-      <img width="100%" alt="booknews-editor" src="https://github.com/user-attachments/assets/c5b6a8df-3c7c-4b49-a00e-79c5b22a6299" />
+      <img width="100%" alt="booknews-all" src="https://github.com/user-attachments/assets/5faf99fe-d7f2-4364-8be5-063af7d8f188" />
+      <p align="center"><strong>언론출판독서TV 전체기사</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" alt="admin-dash" src="https://github.com/user-attachments/assets/85f69d95-df95-46f6-82aa-d03894999e84" />
       <p align="center"><strong>언론출판독서TV 관리자페이지</strong></p>
+    </td>
+    <td width="50%">
+      <img width="100%" alt="booknews-editor" src="https://github.com/user-attachments/assets/c5b6a8df-3c7c-4b49-a00e-79c5b22a6299" />
+      <p align="center"><strong>언론출판독서TV 작성 에디터</strong></p>
     </td>
   </tr>
   <tr>
@@ -137,7 +147,7 @@
   <tr>
     <td width="50%">
       <img width="100%" alt="acon-admin" src="https://github.com/user-attachments/assets/ad89acbc-048f-45c4-ba29-09887d0335f4" />
-      <p align="center"><strong>에이콘 관리자 페이지</strong></p>
+      <p align="center"><strong>에이콘 관리자 대시보드</strong></p>
     </td>
       <td width="50%">
       <img width="100%" alt="acon-admin-campaign" src="https://github.com/user-attachments/assets/a7daf355-013a-490a-8446-13c517f0a8f5" />
@@ -151,7 +161,7 @@
       </td>
       <td width="50%">
       <img width="100%" alt="tmall-my" src="https://github.com/user-attachments/assets/0d08bfc8-0eba-4f8a-8ca5-d4325009b140" />
-      <p align="center"><strong>쇼핑몰 페이지</strong></p>
+      <p align="center"><strong>쇼핑몰 마이페이지</strong></p>
       </td>
   </tr>
   
