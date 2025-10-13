@@ -12,7 +12,7 @@
 
 **1년차 프론트엔드 개발자**로서 현대적인 웹 개발 기술을 활용해 사용자 경험을 중시하는 서비스를 개발하고 있습니다.
 
-- 🎯 **전문 분야**: Vue 3 & Nuxt 3 생태계
+- 🎯 **전문 분야**: Vue 3 & Nuxt 3, React & Next.js 생태계
 - 🛠️ **개발 철학**: 깔끔한 코드, 모던한 UI/UX, 성능 최적화
 - 📍 **위치**: 대한민국
 - 🌱 **학습 중**: 모노레포 아키텍처, 클라우드 인프라
@@ -72,6 +72,7 @@
 
 | 프로젝트 | 역할 | 기술 스택 | 기간 | 상태 | 링크 |
 |---------|------|--------|------|------|------|
+| **포트폴리오 & 블로그** | FullStack | React, Next.js 14, TypeScript, Tailwind CSS, Turborepo | 진행중 | 🚧 개발중 | Private |
 | **티그로 회사 페이지** | FE | VitePress, Vue.js, Three.js | 1개월 | ✅ 완료 | [tigro.co.kr](https://www.tigro.co.kr/index/) |
 | **진삼가 브랜드 페이지** | FE | Vue 3, Nuxt 3, Tailwind CSS | 1개월 | ✅ 완료 | [jinsamga.tigro.co.kr](https://jinsamga.tigro.co.kr/) |
 | **언론출판독서TV** | FullStack | Vue 3, Nuxt 3, Tailwind, GCP, GCS, CMS:nuxt-content/gray-matter, github actions | 1개월 | ✅ 완료 | [booknews.ai.kr](https://booknews.ai.kr/) |
@@ -87,11 +88,12 @@
 ```typescript
 const currentFocus = {
   learning: [
-    "Advanced Vue.js Patterns",
+    "Advanced React & Next.js Patterns",
     "Microservice Architecture",
     "Cloud Infrastructure Optimization"
   ],
   building: [
+    "Personal Portfolio & Blog Platform",
     "Modern Admin Dashboards",
     "Responsive Brand Websites", 
     "Performance-Optimized SPAs"
