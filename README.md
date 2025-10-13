@@ -72,7 +72,7 @@
 
 | 프로젝트 | 역할 | 기술 스택 | 기간 | 상태 | 링크 |
 |---------|------|--------|------|------|------|
-| **포트폴리오 & 블로그** | FullStack | React, Next.js 14, TypeScript, Tailwind CSS, Turborepo | 진행중 | 🚧 개발중 | Private |
+| **[toy]포트폴리오 사이트** | FullStack | React, Next.js 14, TypeScript, Tailwind CSS, Turborepo | 진행중 | 🚧 개발중 | Private |
 | **티그로 회사 페이지** | FE | VitePress, Vue.js, Three.js | 1개월 | ✅ 완료 | [tigro.co.kr](https://www.tigro.co.kr/index/) |
 | **진삼가 브랜드 페이지** | FE | Vue 3, Nuxt 3, Tailwind CSS | 1개월 | ✅ 완료 | [jinsamga.tigro.co.kr](https://jinsamga.tigro.co.kr/) |
 | **언론출판독서TV** | FullStack | Vue 3, Nuxt 3, Tailwind, GCP, GCS, CMS:nuxt-content/gray-matter, github actions | 1개월 | ✅ 완료 | [booknews.ai.kr](https://booknews.ai.kr/) |
@@ -82,6 +82,94 @@
 
 </div>
 
+---
+
+## 🖼️ Project Pages
+
+<div align="center">
+
+### Portfolio & Blog
+<img width="100%" alt="portfolio" src="https://github.com/user-attachments/assets/3f497cbf-f6b7-4074-a4ba-c0aa5b54c502" />
+
+### Recent Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" alt="tigro" src="https://github.com/user-attachments/assets/0242edad-bf6c-419f-b11f-dccde9cf0a2f" />
+      <p align="center"><strong>티그로 회사 페이지</strong></p>
+    </td>
+    <td width="50%">
+      <img width="100%" alt="tigro-about" src="https://github.com/user-attachments/assets/835253d4-16a8-4940-954d-74eaccfe8ea8" />
+      <p align="center"><strong>티그로 회사 페이지</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" alt="jinsamga" src="https://github.com/user-attachments/assets/f35a26df-bcaa-43be-952f-1f917855ec27" />
+      <p align="center"><strong>진삼가 브랜드 페이지</strong></p>
+    </td>
+    <td width="50%">
+      <img width="100%" alt="jinsam-brand" src="https://github.com/user-attachments/assets/16112889-5ad3-43a8-a779-5e184ff1f022" />
+      <p align="center"><strong>진삼가 브랜드 페이지</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" alt="booknews" src="https://github.com/user-attachments/assets/3e6eb422-00ef-44c6-826a-55e461dc89dc" />
+      <p align="center"><strong>언론출판독서TV 메인페이지</strong></p>
+    </td>
+    <td width="50%">
+      <img width="100%" alt="booknews-editor" src="https://github.com/user-attachments/assets/c5b6a8df-3c7c-4b49-a00e-79c5b22a6299" />
+      <p align="center"><strong>언론출판독서TV 관리자페이지</strong></p>
+    </td>
+  </tr>
+  <tr>
+      <td width="50%">
+    <img width="100%" alt="acon-main" src="https://github.com/user-attachments/assets/6abd3960-a63f-4245-a16f-5ff1d6a2039a" />
+      <p align="center"><strong>에이콘 서비스 페이지</strong></p>
+    </td>
+     <td width="50%">
+      <img width="100%" alt="acon" src="https://github.com/user-attachments/assets/6b44659c-8e4f-4af1-87de-4df4e3c5a4e8" />
+      <p align="center"><strong>에이콘 서비스 페이지</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" alt="acon-admin" src="https://github.com/user-attachments/assets/ad89acbc-048f-45c4-ba29-09887d0335f4" />
+      <p align="center"><strong>에이콘 관리자 페이지</strong></p>
+    </td>
+      <td width="50%">
+      <img width="100%" alt="acon-admin-campaign" src="https://github.com/user-attachments/assets/a7daf355-013a-490a-8446-13c517f0a8f5" />
+      <p align="center"><strong>에이콘 관리자 페이지</strong></p>
+    </td>
+  </tr>
+  <tr>
+      <td width="50%">
+      <img width="100%" alt="tmall-shop" src="https://github.com/user-attachments/assets/7f00d753-a460-4b12-85e8-570e5afc9f28" />
+      <p align="center"><strong>쇼핑몰 페이지</strong></p>
+      </td>
+      <td width="50%">
+      <img width="100%" alt="tmall-my" src="https://github.com/user-attachments/assets/0d08bfc8-0eba-4f8a-8ca5-d4325009b140" />
+      <p align="center"><strong>쇼핑몰 페이지</strong></p>
+      </td>
+  </tr>
+  
+  <tr>
+      <td width="50%">
+     <img width="100%" alt="tmall-admin-product" src="https://github.com/user-attachments/assets/9b73ffc8-cfef-4dbb-8e62-51d52dd9722c" />
+      <p align="center"><strong>쇼핑몰 관리자 페이지</strong></p>
+      </td>
+      <td width="50%">
+      <img width="100%" alt="tmall-admin-role" src="https://github.com/user-attachments/assets/8f0ff12c-6bdc-48b1-a72b-19f99096e22b" />
+       <p align="center"><strong>쇼핑몰 관리자 페이지</strong></p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
 
 ## 💡 Current Focus
 
