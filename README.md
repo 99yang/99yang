@@ -139,7 +139,7 @@
 
   - **레이아웃**: Header + Sidebar + Main + Footer 구조
   - **상태관리**: React Context (Theme, Navigation)
-  - **데이터**: Mock JSON (20개 블로그 포스트, 7개 프로젝트)
+  - **데이터**: Supabase 블로그/프로젝트 table CRUD
   - **컴포넌트**: 17개 커스텀 훅 + 재사용 가능한 UI 컴포넌트
 
   **Highlights**
@@ -177,6 +177,7 @@
 - Google Cloud Storage
 - nuxt-content / gray-matter
 - GitHub Actions CI/CD
+- TipTap Editor
 
 **Highlights**
 
