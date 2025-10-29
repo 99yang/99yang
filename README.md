@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/Fetch_API-000000?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TipTap_Editor-000000?style=flat&logo=tiptap&logoColor=white" />
 </div>
 
 ### Backend & Database
