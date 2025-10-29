@@ -72,12 +72,13 @@
 
 | 프로젝트 | 역할 | 기술 스택 | 기간 | 상태 | 링크 |
 |---------|------|--------|------|------|------|
-| **[toy]포트폴리오 사이트** | FullStack | React, Next.js 14, TypeScript, Tailwind CSS, Turborepo | 진행중 | 🚧 개발중 | Private |
+| **SIB contents 사이트** | FullStack | Vue3, Nuxt 3, Tailwind, Turborepo, NAS synology Web Station 정적 배포  | 진행중 | ✅ 부분 완료 | [sibcts.com](https://sibcts.com/) |
+| **[toy]포트폴리오 사이트** | FullStack | React, Next.js 14, TypeScript, Tailwind CSS, Turborepo | 진행중 | 🚧 부분 완료 (배포 필요) | Private |
 | **티그로 회사 페이지** | FE | VitePress, Vue.js, Three.js | 1개월 | ✅ 완료 | [tigro.co.kr](https://www.tigro.co.kr/index/) |
 | **진삼가 브랜드 페이지** | FE | Vue 3, Nuxt 3, Tailwind CSS | 1개월 | ✅ 완료 | [jinsamga.tigro.co.kr](https://jinsamga.tigro.co.kr/) |
 | **언론출판독서TV** | FullStack | Vue 3, Nuxt 3, Tailwind, GCP, GCS, CMS:nuxt-content/gray-matter, github actions | 1개월 | ✅ 완료 | [booknews.ai.kr](https://booknews.ai.kr/) |
-| **에이콘 서비스 페이지** | FE | Vue 3, Nuxt 3, Tailwind, Turborepo, Prisma, Postman | 3주 | ✅ 완료 | [acon.ai.kr](https://acon.ai.kr/) |
-| **에이콘 관리자 페이지** | FE | Vue 3, Nuxt 3, Tailwind, Turborepo, Prisma, Postman | 2주 | ✅ 완료 | Private |
+| **에이콘 서비스 페이지** | FE | Vue 3, Nuxt 3, Tailwind, Turborepo, Prisma, Postman, fetch | 3주 | ✅ 완료 | [acon.ai.kr](https://acon.ai.kr/) |
+| **에이콘 관리자 페이지** | FE | Vue 3, Nuxt 3, Tailwind, Turborepo, Prisma, Postman, fetch | 2주 | ✅ 완료 | Private |
 | **쇼핑몰 프로젝트** | FE | Vue 3, Nuxt 3, Tailwind, Turborepo, LowDB | 6개월 | ⏸️ 중단 | Private |
 
 </div>
@@ -94,44 +95,14 @@
 ### Recent Projects
 
 <table>
-  <tr>
+    <tr>
     <td width="50%">
-      <img width="100%" alt="tigro" src="https://github.com/user-attachments/assets/0242edad-bf6c-419f-b11f-dccde9cf0a2f" />
-      <p align="center"><strong>티그로 회사 메인페이지</strong></p>
+      <img width="2536" height="1295" alt="sibcontents" src="https://github.com/user-attachments/assets/95b5507d-ce7c-459f-aa13-8fc1f5412031" />
+      <p align="center"><strong>에스아이비콘텐츠 영화사 페이지</strong></p>
     </td>
-    <td width="50%">
-      <img width="100%" alt="tigro-about" src="https://github.com/user-attachments/assets/835253d4-16a8-4940-954d-74eaccfe8ea8" />
-      <p align="center"><strong>티그로 회사 페이지</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img width="100%" alt="jinsamga" src="https://github.com/user-attachments/assets/f35a26df-bcaa-43be-952f-1f917855ec27" />
-      <p align="center"><strong>진삼가 브랜드 메인페이지</strong></p>
-    </td>
-    <td width="50%">
-      <img width="100%" alt="jinsam-brand" src="https://github.com/user-attachments/assets/16112889-5ad3-43a8-a779-5e184ff1f022" />
-      <p align="center"><strong>진삼가 브랜드 페이지</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img width="100%" alt="booknews" src="https://github.com/user-attachments/assets/3e6eb422-00ef-44c6-826a-55e461dc89dc" />
-      <p align="center"><strong>언론출판독서TV 메인페이지</strong></p>
-    </td>
-    <td width="50%">
-      <img width="100%" alt="booknews-all" src="https://github.com/user-attachments/assets/5faf99fe-d7f2-4364-8be5-063af7d8f188" />
-      <p align="center"><strong>언론출판독서TV 전체기사</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img width="100%" alt="admin-dash" src="https://github.com/user-attachments/assets/85f69d95-df95-46f6-82aa-d03894999e84" />
-      <p align="center"><strong>언론출판독서TV 관리자페이지</strong></p>
-    </td>
-    <td width="50%">
-      <img width="100%" alt="booknews-editor" src="https://github.com/user-attachments/assets/c5b6a8df-3c7c-4b49-a00e-79c5b22a6299" />
-      <p align="center"><strong>언론출판독서TV 작성 에디터</strong></p>
+      <td width="50%">
+      <img width="2531" height="1295" alt="sibcontents-main" src="https://github.com/user-attachments/assets/cfa56d5d-1e67-4234-974c-9fe9e29a5323" />
+      <p align="center"><strong>에스아이비콘텐츠 영화사 페이지</strong></p>
     </td>
   </tr>
   <tr>
@@ -152,6 +123,47 @@
       <td width="50%">
       <img width="100%" alt="acon-admin-campaign" src="https://github.com/user-attachments/assets/a7daf355-013a-490a-8446-13c517f0a8f5" />
       <p align="center"><strong>에이콘 관리자 페이지</strong></p>
+    </td>
+  </tr>
+  
+   <tr>
+    <td width="50%">
+      <img width="100%" alt="booknews" src="https://github.com/user-attachments/assets/3e6eb422-00ef-44c6-826a-55e461dc89dc" />
+      <p align="center"><strong>언론출판독서TV 메인페이지</strong></p>
+    </td>
+    <td width="50%">
+      <img width="100%" alt="booknews-all" src="https://github.com/user-attachments/assets/5faf99fe-d7f2-4364-8be5-063af7d8f188" />
+      <p align="center"><strong>언론출판독서TV 전체기사</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" alt="admin-dash" src="https://github.com/user-attachments/assets/85f69d95-df95-46f6-82aa-d03894999e84" />
+      <p align="center"><strong>언론출판독서TV 관리자페이지</strong></p>
+    </td>
+    <td width="50%">
+      <img width="100%" alt="booknews-editor" src="https://github.com/user-attachments/assets/c5b6a8df-3c7c-4b49-a00e-79c5b22a6299" />
+      <p align="center"><strong>언론출판독서TV 작성 에디터</strong></p>
+    </td>
+  </tr>
+   <tr>
+    <td width="50%">
+      <img width="100%" alt="jinsamga" src="https://github.com/user-attachments/assets/f35a26df-bcaa-43be-952f-1f917855ec27" />
+      <p align="center"><strong>진삼가 브랜드 메인페이지</strong></p>
+    </td>
+    <td width="50%">
+      <img width="100%" alt="jinsam-brand" src="https://github.com/user-attachments/assets/16112889-5ad3-43a8-a779-5e184ff1f022" />
+      <p align="center"><strong>진삼가 브랜드 페이지</strong></p>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%">
+      <img width="100%" alt="tigro" src="https://github.com/user-attachments/assets/0242edad-bf6c-419f-b11f-dccde9cf0a2f" />
+      <p align="center"><strong>티그로 회사 메인페이지</strong></p>
+    </td>
+    <td width="50%">
+      <img width="100%" alt="tigro-about" src="https://github.com/user-attachments/assets/835253d4-16a8-4940-954d-74eaccfe8ea8" />
+      <p align="center"><strong>티그로 회사 페이지</strong></p>
     </td>
   </tr>
   <tr>
