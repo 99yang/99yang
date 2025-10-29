@@ -118,7 +118,7 @@
   **Features**
 
   - Portfolio + Blog 통합 플랫폼
-  - Cursor.com 스타일 라이트/다크 테마 시스템
+  - 라이트/다크 테마 시스템
   - 완전한 반응형 레이아웃 (Header + Sidebar 구조)
   - 한국어 최적화 타이포그래피 (Pretendard 폰트)
   - 블로그 CRUD 시스템 (TipTap 리치 에디터)
