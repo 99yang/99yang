@@ -1,5 +1,9 @@
 # Frontend Developer, I`m JEY
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;I'm+JEY&font=Inter&size=55&color=1a1a1a&center=true&width=800&height=140&duration=8000&pause=1300&weight=900" alt="Typing SVG Header" />
+</div>
+
 안녕하세요. 1년차 프론트엔드 개발자입니다.
 
 현대적인 웹 기술을 활용하여 사용자 중심의 서비스를 개발하고 있습니다.
