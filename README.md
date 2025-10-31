@@ -62,9 +62,9 @@
 
 | Project                        | Role       | Tech                                                 | Period  | Status      | Link                                                  |
 | ------------------------------ | ---------- | ---------------------------------------------------- | ------- | ----------- | ----------------------------------------------------- |
-| **SIB Contents 영화사 사이트** | Full Stack | Vue 3, Nuxt 3, Tailwind CSS, Turborepo, NAS Synology | 1주     | Completed  | [sibcts.com](https://sibcts.com/)                     |
-| **포트폴리오 사이트**          | Full Stack | React, Next.js 14, TypeScript, Tailwind CSS          | Ongoing | In Progress | -                                                     |
-| **언론출판독서TV**             | Full Stack | Vue 3, Nuxt 3, GCP, GCS, GitHub Actions              | 1개월   | Completed   | [booknews.ai.kr](https://booknews.ai.kr/)             |
+| **SIB Contents 영화사 사이트** | Full Stack | Vue 3, Nuxt 3, Tailwind CSS, Turborepo, NAS Synology | 1주     | Completed  | [sibcontents.com](https://sibcontents.com/)                     |
+| **포트폴리오 사이트**          | Full Stack | React, Next.js 14, TypeScript, Tailwind CSS, Fastify, postgreSQL, Prisma, Turborepo, Supabase, Railway, Vercel | 5주   | Completed  | [my-sites-portfolio.vercel.app](https://my-sites-portfolio.vercel.app) |
+| **언론출판독서TV**             | Full Stack | Vue 3, Nuxt 3, CMS:nuxt-content/gray-matter/server api, GCP, GCS, GitHub Actions | 1개월   | Completed   | [booknews.ai.kr](https://booknews.ai.kr/)             |
 | **에이콘 서비스 페이지**       | Frontend   | Vue 3, Nuxt 3, Tailwind, Turborepo                   | 3주     | Completed   | [acon.ai.kr](https://acon.ai.kr/)                     |
 | **에이콘 관리자 페이지**       | Frontend   | Vue 3, Nuxt 3, Tailwind, Turborepo                   | 3주     | Completed   | -                                                     |
 | **진삼가 브랜드 페이지**       | Frontend   | Vue 3, Nuxt 3, Tailwind CSS                          | 1개월   | Completed   | [jinsamga.tigro.co.kr](https://jinsamga.tigro.co.kr/) |
