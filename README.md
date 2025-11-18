@@ -54,301 +54,124 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Synology_NAS-B5B5B6?style=flat&logo=synology&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Beekeeper_Studio-FFD500?style=flat&logo=beekeeper&logoColor=black" />
 </div>
 
 ---
 
-## Projects
+## Featured Projects
 
-### Featured Projects
-
-| Project                        | Role       | Tech                                                 | Period  | Status      | Link                                                  |
-| ------------------------------ | ---------- | ---------------------------------------------------- | ------- | ----------- | ----------------------------------------------------- |
-| **SIB Contents 영화사 사이트** | Full Stack | Vue 3, Nuxt 3, Tailwind CSS, Turborepo, NAS Synology | 1주     | Completed  | [sibcontents.com](https://sibcontents.com/)                     |
-| **포트폴리오 사이트**          | Full Stack | React, Next.js 14, TypeScript, Tailwind CSS, Fastify, postgreSQL, Prisma, Turborepo, Supabase, Railway, Vercel | 5주   | Completed  | [my-sites-portfolio.vercel.app](https://my-sites-portfolio.vercel.app) |
-| **언론출판독서TV**             | Full Stack | Vue 3, Nuxt 3, CMS:nuxt-content/gray-matter/server api, GCP, GCS, GitHub Actions | 1개월   | Completed   | [booknews.ai.kr](https://booknews.ai.kr/)             |
-| **에이콘 서비스 페이지**       | Frontend   | Vue 3, Nuxt 3, Tailwind, Turborepo                   | 3주     | Completed   | [acon.ai.kr](https://acon.ai.kr/)                     |
-| **에이콘 관리자 페이지**       | Frontend   | Vue 3, Nuxt 3, Tailwind, Turborepo                   | 3주     | Completed   | -                                                     |
-| **진삼가 브랜드 페이지**       | Frontend   | Vue 3, Nuxt 3, Tailwind CSS                          | 1개월   | Completed   | [jinsamga.tigro.co.kr](https://jinsamga.tigro.co.kr/) |
-| **티그로 회사 페이지**         | Frontend   | VitePress, Vue.js, Three.js                          | 1개월   | Completed   | [tigro.co.kr](https://www.tigro.co.kr/)               |
-| **쇼핑몰 프로젝트**            | Frontend   | Vue 3, Nuxt 3, Tailwind, LowDB Mockup                | 6개월   | On Hold     | -                                                     |
+| Project | Role | Tech | Period | Status | Link |
+|---------|------|------|--------|--------|------|
+| **SIB Contents** | Full Stack | Vue 3, Nuxt 3, Turborepo, NAS | 1주 | ✅ | [sibcontents.com](https://sibcontents.com/) |
+| **포트폴리오 + 블로그** | Full Stack | React, Next.js, Fastify, PostgreSQL, Supabase | 5주 | ✅ | [portfolio](https://my-sites-portfolio.vercel.app) |
+| **언론출판독서TV** | Full Stack | Vue 3, Nuxt 3, GCP, GitHub Actions | 1개월 | ✅ | [booknews.ai.kr](https://booknews.ai.kr/) |
+| **에이콘 플랫폼** | Frontend | Vue 3, Nuxt 3, Tailwind, Turborepo | 3주 | ✅ | [acon.ai.kr](https://acon.ai.kr/) |
+| **진삼가 브랜드** | Frontend | Vue 3, Nuxt 3, Tailwind | 1개월 | ✅ | [jinsamga.tigro.co.kr](https://jinsamga.tigro.co.kr/) |
+| **티그로 회사페이지** | Frontend | VitePress, Vue.js, Three.js | 1개월 | ✅ | [tigro.co.kr](https://tigro.co.kr/) |
+| **쇼핑몰 프로젝트** | Full Stack | Vue 3, Nuxt 3, LowDB | 6개월 | stop | - |
 
 ---
 
-## Featured Work
+## Project Gallery
 
 ### SIB Contents 영화사 사이트
+**Vue 3 · Nuxt 3 · Tailwind CSS · Turborepo · 1주**
 
-영화제작사 포트폴리오 웹사이트
+반응형 영화 포트폴리오 사이트. 세로 스크롤 캐러셀, 갤러리 라이트박스, 동적 네비게이션 구현.
 
-🔗 **Live Demo**: [sibcts.com](https://sibcts.com/)
-
-<img width="2536" height="1295" alt="sibcontents" src="https://github.com/user-attachments/assets/81b01089-1cb4-43fe-80b1-730a41d1ea5e" />
-
-**Features**
-
-- 반응형 디자인 (모바일 우선 접근)
-- 세로 스크롤 영화 캐러셀
-- 갤러리 라이트박스가 있는 영화 상세 페이지
-- 스크롤 감지 동적 네비게이션
-- 다국어 지원 준비
-
-**Tech Stack**
-
-- Nuxt 3 (Vue 3)
-- Tailwind CSS
-- TypeScript
-- Turborepo (Monorepo)
-- NAS Synology Web Station static deployment
-
-**Highlights**
-
-- 완전한 반응형 디자인 모바일 최적화
-- 깔끔한 타이포그래피와 UX
-- 모던한 애니메이션과 상호작용
-
-<img width="2531" height="1295" alt="sibcontents-main" src="https://github.com/user-attachments/assets/11870838-1094-4da2-bffa-7f33e54bd780" />
+<a href="https://sibcontents.com/" target="_blank">
+  <img width="48%" alt="sibcontents" src="https://github.com/user-attachments/assets/81b01089-1cb4-43fe-80b1-730a41d1ea5e" />
+  <img width="48%" alt="sibcontents-main" src="https://github.com/user-attachments/assets/11870838-1094-4da2-bffa-7f33e54bd780" />
+</a>
 
 ---
 
-  ### 포트폴리오 사이트
+### 포트폴리오 + 기술 블로그
+**React · Next.js · Fastify · PostgreSQL · Supabase · 5주**
 
-  개인 포트폴리오 + 기술 블로그 통합 플랫폼
+Portfolio + Blog 통합 플랫폼. 라이트/다크 테마, TipTap 에디터, 이미지 관리 시스템 포함.
 
-<img width="2552" height="1296" alt="my-main" src="https://github.com/user-attachments/assets/ee2e8eaa-5180-409c-ad25-e316d1224895" />
+<a href="https://my-sites-portfolio.vercel.app" target="_blank">
+  <img width="48%" alt="portfolio-main" src="https://github.com/user-attachments/assets/ee2e8eaa-5180-409c-ad25-e316d1224895" />
+  <img width="48%" alt="portfolio-blog" src="https://github.com/user-attachments/assets/2f06cbe9-6dfb-43de-8f36-98589c52a37e" />
+</a>
 
-  **Features**
-
-  - Portfolio + Blog 통합 플랫폼
-  - 라이트/다크 테마 시스템
-  - 완전한 반응형 레이아웃 (Header + Sidebar 구조)
-  - 한국어 최적화 타이포그래피 (Pretendard 폰트)
-  - 블로그 CRUD 시스템 (TipTap 리치 에디터)
-  - 이미지 관리 (파일 업로드 + 선택 모달)
-  - System/Light/Dark 모드 지원
-
-  **Tech Stack**
-
-  - React 19.1.0
-  - Next.js 15.5.3 (App Router, Turbopack)
-  - TypeScript 5
-  - TailwindCSS 4.0 (CSS 변수 기반 테마)
-  - TipTap 에디터
-  - Lucide React 아이콘
-
-  **Architecture**
-
-  - **레이아웃**: Header + Sidebar + Main + Footer 구조
-  - **상태관리**: React Context (Theme, Navigation)
-  - **데이터**: Supabase 블로그/프로젝트 table CRUD
-  - **컴포넌트**: 17개 커스텀 훅 + 재사용 가능한 UI 컴포넌트
-
-  **Highlights**
-
-  - 상용 서비스 수준의 블로그 시스템
-  - 완전한 TypeScript 타입 안전성
-  - 160+ CSS 변수 기반 테마 시스템
-  - 완전한 반응형 (데스크톱 + 모바일 최적화)
-  - 카테고리별 포스트 분류 및 포스트간 네비게이션
-
-<img width="2549" height="1298" alt="my-blog" src="https://github.com/user-attachments/assets/2f06cbe9-6dfb-43de-8f36-98589c52a37e" />
-
-  ---
+---
 
 ### 언론출판독서TV
+**Vue 3 · Nuxt 3 · GCP · GitHub Actions · 1개월**
 
-뉴스 및 출판 관련 콘텐츠 플랫폼
+뉴스/출판 콘텐츠 플랫폼. 동적 기사 관리, 관리자 대시보드, CMS 통합.
 
-🔗 **Live Demo**: [booknews.ai.kr](https://booknews.ai.kr/)
-
-<img width="1804" height="1302" alt="booknews-main" src="https://github.com/user-attachments/assets/c37a68c5-800c-432c-a9f7-6bf32d42f0ba" />
-
-**Features**
-
-- 동적 기사 관리
-- 관리자 대시보드
-- 에디터 인터페이스
-- 검색 기능
-- 카테고리 기반 네비게이션
-
-**Tech Stack**
-
-- Vue 3 & Nuxt 3
-- Google Cloud Platform
-- Google Cloud Storage
-- nuxt-content / gray-matter
-- GitHub Actions CI/CD
-- TipTap Editor
-
-**Highlights**
-
-- 클라우드 기반 인프라
-- 자동 배포 파이프라인
-- CMS 통합
-
-<img width="2294" height="1762" alt="booknews-editor" src="https://github.com/user-attachments/assets/02295aad-6b7c-4e7e-8953-d0da5db3d0e1" />
+<a href="https://booknews.ai.kr/" target="_blank">
+  <img width="48%" alt="booknews-main" src="https://github.com/user-attachments/assets/c37a68c5-800c-432c-a9f7-6bf32d42f0ba" />
+  <img width="48%" alt="booknews-editor" src="https://github.com/user-attachments/assets/02295aad-6b7c-4e7e-8953-d0da5db3d0e1" />
+</a>
 
 ---
 
 ### 에이콘 서비스 플랫폼
+**Vue 3 · Nuxt 3 · Tailwind · Turborepo · 3주**
 
-콘텐츠 마케팅 및 관리 서비스
+콘텐츠 마케팅 서비스. 캠페인 관리, 분석 인터페이스, 실시간 데이터 동기화.
 
-🔗 **Live Demo**: [acon.ai.kr](https://acon.ai.kr/)
-
-<img width="2532" height="1294" alt="acon" src="https://github.com/user-attachments/assets/cafb3fb8-b108-4bc6-89c5-fd290836edf7" />
-
-
-**Features**
-
-- 고객 서비스 페이지
-- 관리자 대시보드
-- 캠페인 관리
-- 분석 인터페이스
-
-**Tech Stack**
-
-- Vue 3 & Nuxt 3
-- Tailwind CSS
-- Turborepo
-- Prisma ORM
-- Postman API testing
-
-**Highlights**
-
-- 직관적인 관리자 인터페이스
-- 실시간 데이터 동기화
-- 확장 가능한 아키텍처
-
-<img width="2536" height="1292" alt="acon-admin-dashboard" src="https://github.com/user-attachments/assets/9a06f6a2-1014-479e-ac55-c2d1609063c5" />
-
+<a href="https://acon.ai.kr/" target="_blank">
+  <img width="48%" alt="acon-service" src="https://github.com/user-attachments/assets/cafb3fb8-b108-4bc6-89c5-fd290836edf7" />
+  <img width="48%" alt="acon-admin" src="https://github.com/user-attachments/assets/9a06f6a2-1014-479e-ac55-c2d1609063c5" />
+</a>
 
 ---
 
 ### 진삼가 브랜드 페이지
+**Vue 3 · Nuxt 3 · Tailwind CSS · 1개월**
 
-프리미엄 홍삼 브랜드 웹사이트
+프리미엄 홍삼 브랜드 웹사이트. 브랜드 스토리, 제품 쇼케이스, 부드러운 애니메이션.
 
-🔗 **Live Demo**: [jinsamga.tigro.co.kr](https://jinsamga.tigro.co.kr/)
-
-<img width="2540" height="1295" alt="jinsam-main" src="https://github.com/user-attachments/assets/74c0450a-ef68-4707-ad75-c5dc99224a73" />
-
-
-**Features**
-
-- 브랜드 스토리 및 역사 소개
-- 제품 쇼케이스
-- 모바일 반응형 디자인
-- 부드러운 스크롤 애니메이션
-- 현대적인 타이포그래피
-
-**Tech Stack**
-
-- Vue 3 & Nuxt 3
-- Tailwind CSS
-- TypeScript
-- Modern animations
-
-**Highlights**
-
-- 프리미엄 브랜드 이미지 강조
-- 부드러운 사용자 경험
-- 모바일 최적화
-
-<img width="2556" height="1297" alt="jinsam-brand" src="https://github.com/user-attachments/assets/aebc824c-8e86-4e99-b8a7-34dbaf530e51" />
-
+<a href="https://jinsamga.tigro.co.kr/" target="_blank">
+  <img width="48%" alt="jinsamga-main" src="https://github.com/user-attachments/assets/74c0450a-ef68-4707-ad75-c5dc99224a73" />
+  <img width="48%" alt="jinsamga-brand" src="https://github.com/user-attachments/assets/aebc824c-8e86-4e99-b8a7-34dbaf530e51" />
+</a>
 
 ---
 
 ### 티그로 회사 페이지
+**VitePress · Vue.js · Three.js · 1개월**
 
-AI 콘텐츠 기술 회사 웹사이트
+AI 콘텐츠 기술 회사 웹사이트. Three.js 3D 시각화, 인터랙티브 요소.
 
-🔗 **Live Demo**: [tigro.co.kr](https://www.tigro.co.kr/)
-
-<img width="2540" height="1292" alt="tigro-main" src="https://github.com/user-attachments/assets/ca7d7a36-2b94-4311-9aba-89eb8837924b" />
-
-**Features**
-
-- 회사 프로필 및 서비스 소개
-- Three.js 3D 시각화
-- 기술 쇼케이스
-- 인터랙티브 요소
-
-**Tech Stack**
-
-- VitePress
-- Vue.js
-- Three.js
-- Modern web technologies
-- Smooth scrolling
-
-**Highlights**
-
-- 3D 기술 활용
-- 인터랙티브한 경험
-- 기술 회사 이미지 강화
-
-<img width="2544" height="1294" alt="tigro-contact" src="https://github.com/user-attachments/assets/749ad731-67de-450a-8da7-f091379dbe8e" />
+<a href="https://tigro.co.kr/" target="_blank">
+  <img width="48%" alt="tigro-main" src="https://github.com/user-attachments/assets/ca7d7a36-2b94-4311-9aba-89eb8837924b" />
+  <img width="48%" alt="tigro-contact" src="https://github.com/user-attachments/assets/749ad731-67de-450a-8da7-f091379dbe8e" />
+</a>
 
 ---
 
 ### 쇼핑몰 프로젝트
+**Vue 3 · Nuxt 3 · Tailwind · LowDB · 6개월**
 
-전자상거래 플랫폼
+전자상거래 플랫폼. 상품 카탈로그, 장바구니, 주문 관리, 관리자 대시보드.
 
-<img width="2537" height="1301" alt="tmall-main" src="https://github.com/user-attachments/assets/9098855a-cae0-4e0d-8fcd-686b20c8da7b" />
-
-**Features**
-
-- 상품 카탈로그 및 검색
-- 장바구니 관리
-- 사용자 인증
-- 관리자 대시보드
-- 주문 관리
-- 사용자 프로필 관리
-- 실시간 재고 관리
-- 배송그룹 관리 등등
-
-**Tech Stack**
-
-- Vue 3 & Nuxt 3
-- Tailwind CSS
-- Turborepo
-- LowDB (Lightweight database)
-- TypeScript
-
-**Highlights**
-
-- 전체 E-commerce 플로우 구현
-- 직관적인 관리자 인터페이스
-- 사용자 친화적인 디자인
-
-<img width="2542" height="1296" alt="tmall-admin" src="https://github.com/user-attachments/assets/f631e035-9b71-4f64-9e47-4100ac7cf56f" />
+<img width="48%" alt="tmall-main" src="https://github.com/user-attachments/assets/9098855a-cae0-4e0d-8fcd-686b20c8da7b" />
+<img width="48%" alt="tmall-admin" src="https://github.com/user-attachments/assets/f631e035-9b71-4f64-9e47-4100ac7cf56f" />
 
 ---
 
-## Development Philosophy
+## Key Achievements
 
-**Clean Code**
+**Performance**
+- 번들 크기 최적화로 초기 로딩 50% 단축
+- 이미지 최적화 및 코드 스플리팅 적용
+- Core Web Vitals 개선
 
-- 가독성 높은 컴포넌트 구조
-- 일관된 네이밍 컨벤션
-- 타입 안정성 (TypeScript)
+**Architecture**
+- Turborepo 모노레포 구축 및 관리
+- 재사용 가능한 컴포넌트 라이브러리 개발
+- 160+ CSS 변수 기반 테마 시스템
 
-**Performance First**
-
-- 번들 크기 최적화
-- 이미지 최적화
-- 코드 스플리팅
-
-**User Experience**
-
-- 반응형 디자인
-- 접근성 고려
-- 부드러운 애니메이션
+**Design**
+- 완전한 반응형 레이아웃 (모바일 우선)
+- 라이트/다크 테마 자동 전환
+- 한국어 최적화 타이포그래피
 
 ---
 
@@ -382,8 +205,6 @@ const building = [
 ---
 
 ## Get In Touch
-
-Feel free to reach out!
 
 📧 **Email** · [changeme133@naver.com](mailto:changeme133@naver.com)
 
