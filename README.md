@@ -62,7 +62,7 @@
 
 | Project | Role | Tech | Period | Status | Link |
 |---------|------|------|--------|--------|------|
-| **SIB Contents** | Full Stack | Vue 3, Nuxt 3, Turborepo, NAS | 1주 | ✅ | [sibcontents.com](https://sibcontents.com/) |
+| **SIB Contents** | Frontend | Vue 3, Nuxt 3, Turborepo, NAS | 1주 | ✅ | [sibcontents.com](https://sibcontents.com/) |
 | **포트폴리오 + 블로그** | Full Stack | React, Next.js, Fastify, PostgreSQL, Supabase | 5주 | ✅ | [portfolio](https://my-sites-portfolio.vercel.app) |
 | **언론출판독서TV** | Full Stack | Vue 3, Nuxt 3, GCP, GitHub Actions | 1개월 | ✅ | [booknews.ai.kr](https://booknews.ai.kr/) |
 | **에이콘 플랫폼** | Frontend | Vue 3, Nuxt 3, Tailwind, Turborepo | 3주 | ✅ | [acon.ai.kr](https://acon.ai.kr/) |
