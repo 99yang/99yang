@@ -63,8 +63,8 @@
 | Project | Role | Tech | Period | Status | Link |
 |---------|------|------|--------|--------|------|
 | **SIB Contents** | Frontend | Vue 3, Nuxt 3, Turborepo | 1주 | ✅ | [sibcontents.com](https://sibcontents.com/) |
-| **포트폴리오 + 블로그** | Full Stack | React, Next.js, Fastify, PostgreSQL, Supabase | 5주 | ✅ | [portfolio](https://my-sites-portfolio.vercel.app) |
-| **언론출판독서TV** | Full Stack | Vue 3, Nuxt 3, GCP, GitHub Actions | 1개월 | ✅ | [booknews.ai.kr](https://booknews.ai.kr/) |
+| **포트폴리오 + 블로그** | Full Stack | React, Next.js, Fastify, PostgreSQL, Supabase, Railway | 5주 | ✅ | [portfolio](https://my-sites-portfolio.vercel.app) |
+| **언론출판독서TV** | Full Stack | Vue 3, Nuxt 3, Fastify, PostgreSQL, Prisma, NodeJs, docker, Nas synology | 3개월 | ✅ | [booknews.ai.kr](https://booknews.ai.kr/) |
 | **에이콘 플랫폼** | Frontend | Vue 3, Nuxt 3, Tailwind, Turborepo | 3주 | ✅ | [acon.ai.kr](https://acon.ai.kr/) |
 | **진삼가 브랜드** | Frontend | Vue 3, Nuxt 3, Tailwind | 1개월 | ✅ | [jinsamga.tigro.co.kr](https://jinsamga.tigro.co.kr/) |
 | **티그로 회사페이지** | Frontend | VitePress, Vue.js, Three.js | 1개월 | ✅ | [tigro.co.kr](https://tigro.co.kr/) |
@@ -99,7 +99,7 @@ Portfolio + Blog 통합 플랫폼. 라이트/다크 테마, TipTap 에디터, �
 ---
 
 ### 언론출판독서TV
-**Vue 3 · Nuxt 3 · GCP · GitHub Actions · 1개월**
+**Vue 3 · Nuxt 3 · Fastify, PostgreSQL, Prisma, NodeJs, docker · Nas synology · 3개월**
 
 뉴스/출판 콘텐츠 플랫폼. 동적 기사 관리, 관리자 대시보드, CMS 통합.
 
